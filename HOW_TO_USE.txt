@@ -1,0 +1,3 @@
+stripe listen --forward-to localhost:3001/api/webhook
+
+npm run dev
